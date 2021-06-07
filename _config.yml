@@ -31,7 +31,7 @@ twitter_username: luizagarzim
 github_username:  luizagarzim
 
 # Build settings
-theme: minima
+theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 
